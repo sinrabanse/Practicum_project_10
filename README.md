@@ -22,7 +22,7 @@ After a short meeting with managers, we came to the conclusion that the dashboar
    - Which video categories trended most often?
    - How were they distributed among regions?
    - What categories were especially popular in the United States? Were there any differences between the categories popular in the US and those popular elsewhere?
-   - Prepare a brief presentation containing a report (answers to these questions and graphs).
+4) Prepare a brief presentation containing a report (answers to these questions and graphs).
 
 # Description of the data
 
