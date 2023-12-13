@@ -13,4 +13,4 @@ Every week I need to answer the same questions:
    - What categories were especially popular in the United States?
 
 After a short meeting with managers, we came to the conclusion that the dashboard should have the following draft:<br/>
-![Draft for dashboard](https://github.com/sinrabanse/Practicum_project_10/raw/main/image/Draft_for_dashboard.png)
+![Draft for dashboard](https://github.com/sinrabanse/Practicum_project_10/raw/main/Draft_for_dashboard.png)
