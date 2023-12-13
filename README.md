@@ -14,3 +14,24 @@ Every week I need to answer the same questions:
 
 After a short meeting with managers, we came to the conclusion that the dashboard should have the following draft:<br/>
 ![Draft for dashboard](https://github.com/sinrabanse/Practicum_project_10/raw/main/Draft_for_dashboard.png)
+
+# Steps
+1) In Tableau Public, use  trending_by_time.csv to create a dashboard modeled on the draft.
+2) Publish the dashboard on the Tableau Public server.
+3) Use your dashboard to answer the questions the managers asked me:
+   - Which video categories trended most often?
+   - How were they distributed among regions?
+   - What categories were especially popular in the United States? Were there any differences between the categories popular in the US and those popular elsewhere?
+   - Prepare a brief presentation containing a report (answers to these questions and graphs).
+
+# Description of the data
+
+Data is stored in file trending_by_time.csv
+
+Columns:
+
+'record_id' — primary key<br/>
+'region' — country/geographical region<br/>
+'trending_date' — date and time<br/>
+'category_title' — the video category<br/>
+'videos_count' — the number of videos in the trending section
